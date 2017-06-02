@@ -93,3 +93,7 @@ document.querySelector("#clearStorage").onclick = function() {
 }
 
 */
+
+
+
+var arr = new Array;
