@@ -94,3 +94,4 @@ document.querySelector("#clearStorage").onclick = function() {
 
 */
 var a = b;
+/* new conf*/ 
