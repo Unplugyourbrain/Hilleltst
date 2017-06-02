@@ -95,3 +95,4 @@ document.querySelector("#clearStorage").onclick = function() {
 */
 /* new conf*/ 
 /*new commit test1*/ 
+/*new commit2 test1 */
