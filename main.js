@@ -97,3 +97,6 @@ document.querySelector("#clearStorage").onclick = function() {
 
 
 var arr = new Array;
+/* new conf*/ 
+/*new commit test1*/ 
+/*new commit2 test1 */
