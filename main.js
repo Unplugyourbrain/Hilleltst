@@ -100,3 +100,5 @@ var arr = new Array;
 /* new conf*/ 
 /*new commit test1*/ 
 /*new commit2 test1 */
+var a = b;
+/* new conf*/ 
